@@ -3,9 +3,13 @@ Java Language covered in details. Advanced topics like OOPs, File handling, Erro
 
 ### Projects:
 - Madlibs Game
+- Shopping Cart Program
+- Compound Interest Calculator
+- Weight Converter
+- Temperature Converter
 
 ### Tech Stack:
 VS Code, Extensions, Java JDK, advanced Java Libraries.
 
 ### Duration:
-13.06.2026 - Present
+Java Basics + Applets : 13.06.2026 - Present
