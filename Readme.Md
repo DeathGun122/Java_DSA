@@ -5,6 +5,7 @@ Java Language covered in details. Advanced topics like OOPs, File handling, Erro
 - Madlibs Game
 - Shopping Cart Program
 - Compound Interest Calculator
+- Email Checker
 - Weight Converter
 - Temperature Converter
 

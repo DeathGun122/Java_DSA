@@ -19,6 +19,17 @@ public class string_methods {
 
         System.out.println(name.isEmpty());
 
-        
+        if(name.isEmpty()) {
+            System.out.println("Name is empty");
+        }
+        else {
+            System.out.println("Name is not empty");
+        }
+
+        System.out.println(name.contains(" "));
+
+        System.out.println(name.equals("Ravi"));
+
+        System.out.println(name.equalsIgnoreCase("RAVI"));
     }
 }
