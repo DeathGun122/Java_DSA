@@ -8,6 +8,8 @@ Java Language covered in details. Advanced topics like OOPs, File handling, Erro
 - Email Checker
 - Weight Converter
 - Temperature Converter
+- Calculator
+- Number Guessing Game
 
 ### Tech Stack:
 VS Code, Extensions, Java JDK, advanced Java Libraries.
