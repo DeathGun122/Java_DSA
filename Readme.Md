@@ -10,6 +10,11 @@ Java Language covered in details. Advanced topics like OOPs, File handling, Erro
 - Temperature Converter
 - Calculator
 - Number Guessing Game
+- Banking Program
+- Dice Roller Program
+- Quiz Game
+- Rock Paper Scizzors Game
+- Slot Machine
 
 ### Tech Stack:
 VS Code, Extensions, Java JDK, advanced Java Libraries.
