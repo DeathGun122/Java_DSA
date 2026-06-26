@@ -20,6 +20,8 @@ public class array_2d {
         //     System.out.println();
         // }
 
+        groceryList[0][0] = "pineapple";
+
         
     }
 }
