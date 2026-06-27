@@ -1,6 +1,6 @@
 public class objects_class {
     public static void main(String[] args) {
-        Car car = new Car();
+        Car_OS car = new Car_OS();
         System.out.println(car.make);
         System.out.println(car.model);
         System.out.println(car.year);
@@ -14,7 +14,7 @@ public class objects_class {
         car.stop();
     }
 }
-class Car{
+class Car_OS{
     String make = "Honda";
     String model = "Civic";
     int year = 2022;
