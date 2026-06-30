@@ -15,6 +15,10 @@ Java Language covered in details. Advanced topics like OOPs, File handling, Erro
 - Quiz Game
 - Rock Paper Scizzors Game
 - Slot Machine
+- Music Player
+- Hangman Game
+- Countdown Timer
+- Alarm Clock
 
 ### Tech Stack:
 VS Code, Extensions, Java JDK, advanced Java Libraries.
